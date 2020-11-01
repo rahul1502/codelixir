@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%7Bcodelixir%7D/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/%7Bcodelixir%7D/static/js/main.efcc370f.chunk.js",
-    "main.js.map": "/%7Bcodelixir%7D/static/js/main.efcc370f.chunk.js.map",
-    "runtime-main.js": "/%7Bcodelixir%7D/static/js/runtime-main.8ac3d33d.js",
-    "runtime-main.js.map": "/%7Bcodelixir%7D/static/js/runtime-main.8ac3d33d.js.map",
-    "static/js/2.da7d528c.chunk.js": "/%7Bcodelixir%7D/static/js/2.da7d528c.chunk.js",
-    "static/js/2.da7d528c.chunk.js.map": "/%7Bcodelixir%7D/static/js/2.da7d528c.chunk.js.map",
-    "static/js/3.9d9fe20b.chunk.js": "/%7Bcodelixir%7D/static/js/3.9d9fe20b.chunk.js",
-    "static/js/3.9d9fe20b.chunk.js.map": "/%7Bcodelixir%7D/static/js/3.9d9fe20b.chunk.js.map",
-    "index.html": "/%7Bcodelixir%7D/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/%7Bcodelixir%7D/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.da7d528c.chunk.js.LICENSE.txt": "/%7Bcodelixir%7D/static/js/2.da7d528c.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/%7Bcodelixir%7D/static/media/logo.103b5fa1.svg"
+    "main.css": "/codelixir/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/codelixir/static/js/main.efcc370f.chunk.js",
+    "main.js.map": "/codelixir/static/js/main.efcc370f.chunk.js.map",
+    "runtime-main.js": "/codelixir/static/js/runtime-main.091a7085.js",
+    "runtime-main.js.map": "/codelixir/static/js/runtime-main.091a7085.js.map",
+    "static/js/2.da7d528c.chunk.js": "/codelixir/static/js/2.da7d528c.chunk.js",
+    "static/js/2.da7d528c.chunk.js.map": "/codelixir/static/js/2.da7d528c.chunk.js.map",
+    "static/js/3.9d9fe20b.chunk.js": "/codelixir/static/js/3.9d9fe20b.chunk.js",
+    "static/js/3.9d9fe20b.chunk.js.map": "/codelixir/static/js/3.9d9fe20b.chunk.js.map",
+    "index.html": "/codelixir/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/codelixir/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.da7d528c.chunk.js.LICENSE.txt": "/codelixir/static/js/2.da7d528c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/codelixir/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ac3d33d.js",
+    "static/js/runtime-main.091a7085.js",
     "static/js/2.da7d528c.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.efcc370f.chunk.js"
